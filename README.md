@@ -80,7 +80,7 @@ Fique à vontade para acompanhar meu progresso! 🚀
 ## 📬 Vamos nos conectar?
 
 - 📧 Email principal: hburysantos@gmail.com
-- 📧 Email secundário: hburysantos@gmail.com 
+- 📧 Email secundário: helenaburysantos12@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/helena-bury-santos-5397822ab/)  
 
 ---
