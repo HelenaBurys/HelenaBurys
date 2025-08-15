@@ -5,7 +5,7 @@
 </p>
 
 🎓 Estudante de Ciência da Computação | 2º ano  
-🚀 Em formação e em busca da minha primeira oportunidade como estagiária na área de tecnologia  
+🚀 Em formação  
 💻 Explorando o mundo da programação com paixão e dedicação
 
 ---
