@@ -28,7 +28,9 @@ Durante minha jornada até aqui, já estudei:
 - ✅ HTML e CSS  
 - ✅ JavaScript  
 - ✅ Banco de Dados  
-- ✅ Java  
+- ✅ Java
+- ✅ Python
+- ✅ C#
 
 📌 Estou sempre revendo e aprofundando esses conteúdos para me tornar cada vez mais preparada para o mercado!
 
@@ -50,7 +52,6 @@ Fique à vontade para acompanhar meu progresso! 🚀
 
 ## 🎯 Em busca de
 
-- 📍 Estágio em Desenvolvimento Web, Back-End ou áreas relacionadas  
 - 🤝 Aprender com profissionais da área e crescer em equipe  
 - 💬 Compartilhar experiências e construir uma rede de apoio e aprendizado
 
