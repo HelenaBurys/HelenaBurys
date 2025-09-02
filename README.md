@@ -38,7 +38,7 @@ Durante minha jornada até aqui, já estudei:
 
 ## 💡 Em breve por aqui...
 
-Mesmo sem projetos publicados ainda, meu objetivo é transformar este espaço em um portfólio vivo do meu crescimento.  
+Meu objetivo é transformar este espaço em um portfólio vivo do meu crescimento.  
 Aqui você encontrará:
 
 - ✅ Mini-projetos de estudo  
