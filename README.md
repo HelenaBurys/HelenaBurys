@@ -5,8 +5,8 @@
 </p>
 
 🎓 Estudante de Ciência da Computação | 2º ano  
-🚀 Em formação  
-💻 Explorando o mundo da programação com paixão e dedicação
+🚀 Em formação...  
+💻 Explorando o mundo da programação com paixão e dedicação!
 
 ---
 
