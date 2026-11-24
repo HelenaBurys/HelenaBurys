@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Estagi%C3%A1ria+de+TI+na+Vivo;DevOps+%7C+ServiceNow+%7C+Java;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+UP" alt="Texto animado" />
 </p>
 
-🎓 Ciência da Computação | 6º semestre | Universidade Positivo  
+🎓 Ciência da Computação | 7º semestre | Universidade Positivo  
 🚀 Estagiária de TI na Vivo | DevOps • ServiceNow • Java  
 📍 Curitiba, PR
 
